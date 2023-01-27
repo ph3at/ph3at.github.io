@@ -99,9 +99,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: ph3at/ph3blog_discussions              # <gh-username>/<repo>
-    repo_id:
+    repo_id: R_kgDOI2i6qA
     category: Announcements
-    category_id:
+    category_id: DIC_kwDOI2i6qM4CT1pA
     mapping:           # optional, default to 'pathname'
     input_position:    # optional, default to 'bottom'
     lang:              # optional, default to the value of `site.lang`
