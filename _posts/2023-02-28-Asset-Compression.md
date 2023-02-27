@@ -16,8 +16,8 @@ consoles to be released. On PC, equivalent features are now provided using the
 both higher-performance primitives for basic file access as well as GPU-accelerated decompression.
 
 However, this blog post is not about that. Rather, it is about **general concepts of asset storage and compression**,
-the various factors that play into decisions regarding that. As is not too uncommon for PH3, we'll focus in
-particular on a few **aspects that primarily affect PC** and are frequently overlooked - above all, actually
+and the various factors that play into decisions regarding that. As is not too uncommon for PH3, we'll focus in
+particular on a few **aspects that primarily affect PC** and are frequently overlooked -- above all, actually
 utilizing the frequently larger amounts of main memory available compared to other platforms.
 
 While DirectStorage and GPU decompression are interesting, their impact specifically on PC is often vastly
@@ -27,8 +27,8 @@ is far greater than what additional APIs or hardware acceleration provide. Of co
 is already highly optimized and following best practices, *then* going with hardware acceleration and specialized
 APIs can give you an extra boost.  
 But the vast majority of games are absolutely nowhere close to e.g. saturating
-the 32 GB/s bandwidth provided by PCIe 4.0 - doing so would mean that a loading time of 500 ms (half a second) would be
-enough to entirely replace **all** the main memory content of a 16 GB GPU - never mind that much of that will be taken
+the 32 GB/s bandwidth provided by PCIe 4.0 -- doing so would mean that a loading time of 500 ms (half a second) would be
+enough to entirely replace **all** the main memory content of a 16 GB GPU -- never mind that much of that will be taken
 up by e.g. framebuffer data which never traverses the bus.
 
 > ComputerBase recently [analyzed the impact of DirectStorage on the load times in Forspoken](https://www.computerbase.de/2023-01/forspoken-directstorage-benchmark-test/#abschnitt_directstorage_mit_nvme_und_sata_im_test).
@@ -79,11 +79,11 @@ with the trade-off between compression ratio and throughput being of essential i
 
 However, for the use case of general data (as opposed to e.g. textures) compression, where the focus is on high decompression
 throughput, there are two algorithms -- and crucially, industrial-strength implementations -- that stick out:
-[LZ4](https://lz4.github.io/lz4/) and [Zstandard](https://facebook.github.io/zstd/).
+[LZ4](https://lz4.github.io/lz4/) and [ZStandard](https://facebook.github.io/zstd/).
 
- * **Lz4** has been around longer, is extremely fast, and has moderate tuning potential regarding the tradeoff between compression
+ * **LZ4** has been around longer, is extremely fast, and has moderate tuning potential regarding the tradeoff between compression
 speed and ratio.  
- * **Zstandard** can achieve even higher compression rates, at the cost of somewhat slower - but still extremely
+ * **ZStandard** can achieve even higher compression rates, at the cost of somewhat slower -- but still extremely
 fast, in the grand scheme of things -- decompression speeds. 
 
 Both of them are extremely well implemented and have great documentation, and neither is very difficult to get up and running
