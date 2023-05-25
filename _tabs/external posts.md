@@ -6,6 +6,10 @@ order: 4
 
 A list of external posts by the PH3 team.
 
+## Articles
+
+- [Experts Explain Why So Many Games Are Launching Broken on PC](https://www.ign.com/articles/experts-explain-why-so-many-games-are-launching-broken-on-pc)
+
 ## Khronos
 
 - [Bringing SYCL to Supercomputers with Celerity](https://www.khronos.org/blog/bringing-sycl-to-supercomputers-with-celerity)
