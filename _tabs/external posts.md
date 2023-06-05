@@ -8,6 +8,7 @@ A list of external posts by the PH3 team.
 
 ## Articles
 
+- [PH3 Interview – Peter ‘Durante’ Thoman on Japanese PC Ports …](https://themakoreactor.com/features/ph3-interview-peter-durante-thoman-on-japanese-pc-ports-working-with-falcom-games-steam-deck-optimization-switch-ports-and-a-lot-more/51959/)
 - [Experts Explain Why So Many Games Are Launching Broken on PC](https://www.ign.com/articles/experts-explain-why-so-many-games-are-launching-broken-on-pc)
 
 ## Khronos
