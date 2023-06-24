@@ -359,3 +359,5 @@ We then followed that up with the first iteration of the ECS editor feature.
 
 In the upcoming parts, we'll introduce the **component registry** which will resolve the outstanding issue of having to list all components explicitly in `EcsEditor` — and everywhere else where we would need to iterate over all components.
 Furthermore, we will see how additional information can be attached to reflected fields using **attributes**.
+
+[Go to Part 2](../CPP-Static-Reflection-2)
