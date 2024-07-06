@@ -16,13 +16,15 @@ A list of external posts by the PH3 team.
 
 - [Bringing SYCL to Supercomputers with Celerity](https://www.khronos.org/blog/bringing-sycl-to-supercomputers-with-celerity)
 
+## The Legends of Heroes: Trails through Daybreak
+
+- [Special Patch Notes - The English Release And So Much More](https://store.steampowered.com/news/app/2138610/view/4156338670609987905)
+- [Peter ‘Durante’ Thoman on Trails through Daybreak, Falcom’s New Engine, HDR, DLSS, Steam Deck OLED, PS5 Ports, & More](https://toucharcade.com/2024/06/28/trails-through-daybreak-durante-pc-port-interview-ph3-games/)
+- [Our Version of Kuro no Kiseki does Not, in Fact, Have a Memory Leak](https://store.steampowered.com/news/app/2138610/view/3675538191993632884)
+
 ## The Legends of Heroes: Trails into Reverie
 
-- [PC Version Features and Behind the Scenes](https://steamcommunity.com/games/1668540/announcements/detail/3640646072928530753)
-
-## The Legends of Heroes: Kuro no Kiseki
-
-- [Our Version of Kuro no Kiseki does Not, in Fact, Have a Memory Leak](https://store.steampowered.com/news/app/2138610/view/3675538191993632884)
+- [PC Version Features and Behind the Scenes](https://store.steampowered.com/news/app/1668540/view/3640646072928530753)
 
 ## The Legends of Heroes: Trails from Zero / Trails to Azure
 
