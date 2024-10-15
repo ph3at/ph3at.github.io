@@ -16,6 +16,11 @@ A list of external posts by the PH3 team.
 
 - [Bringing SYCL to Supercomputers with Celerity](https://www.khronos.org/blog/bringing-sycl-to-supercomputers-with-celerity)
 
+## Ys X: Nordics
+
+- [The Ys X: Nordics PC Optimization Journey](https://store.steampowered.com/news/app/2731870/view/4666382742870026335)
+- [Durante discusses Falcom's new engine, PC-exclusive features, HDR, co-op, & more](https://www.rpgsite.net/interview/16422-ys-x-nordics-interview-durante-pc-port-local-coop-hdr-exclusive-features-ph3-nis-america)
+
 ## The Legends of Heroes: Trails through Daybreak
 
 - [Special Patch Notes - The English Release And So Much More](https://store.steampowered.com/news/app/2138610/view/4156338670609987905)
