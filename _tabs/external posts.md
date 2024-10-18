@@ -20,6 +20,7 @@ A list of external posts by the PH3 team.
 
 - [The Ys X: Nordics PC Optimization Journey](https://store.steampowered.com/news/app/2731870/view/4666382742870026335)
 - [Durante discusses Falcom's new engine, PC-exclusive features, HDR, co-op, & more](https://www.rpgsite.net/interview/16422-ys-x-nordics-interview-durante-pc-port-local-coop-hdr-exclusive-features-ph3-nis-america)
+- [Ys X is going to feature local coop at launch on PC!](https://store.steampowered.com/news/app/2731870/view/7366291444711517861)
 
 ## The Legends of Heroes: Trails through Daybreak
 
