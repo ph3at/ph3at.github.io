@@ -16,6 +16,11 @@ A list of external posts by the PH3 team.
 
 - [Bringing SYCL to Supercomputers with Celerity](https://www.khronos.org/blog/bringing-sycl-to-supercomputers-with-celerity)
 
+## The Legends of Heroes: Trails through Daybreak II
+
+- [PC Features Overview, Highlights, and some Nerdy Details](https://store.steampowered.com/news/app/2668430/view/545600503107552212)
+- [Durante talks PC features, Steam Deck optimization, and more](https://www.rpgsite.net/interview/16813-trails-through-daybreak-ii-interview-durante-pc-port-falcom-engine-steam-deck-optimization-trails-in-the-sky-remake-hdr-exclusive-2025)
+
 ## Ys X: Nordics
 
 - [The Ys X: Nordics PC Optimization Journey](https://store.steampowered.com/news/app/2731870/view/4666382742870026335)
