@@ -6,7 +6,7 @@ order: 4
 
 A list of external posts by the PH3 team.
 
-## Articles
+## General Articles
 
 - [DSFixing Dark Souls — A Conversation with Dr. Peter “Durante” Thoman](https://romchip.org/index.php/romchip-journal/article/view/187)
 - [PH3 Interview — Peter ‘Durante’ Thoman on Japanese PC Ports …](https://themakoreactor.com/features/ph3-interview-peter-durante-thoman-on-japanese-pc-ports-working-with-falcom-games-steam-deck-optimization-switch-ports-and-a-lot-more/51959/)
@@ -20,12 +20,14 @@ A list of external posts by the PH3 team.
 
 - [PC Features Overview, Highlights, and some Nerdy Details](https://store.steampowered.com/news/app/2668430/view/545600503107552212)
 - [Durante talks PC features, Steam Deck optimization, and more](https://www.rpgsite.net/interview/16813-trails-through-daybreak-ii-interview-durante-pc-port-falcom-engine-steam-deck-optimization-trails-in-the-sky-remake-hdr-exclusive-2025)
+- [Introducing TAA and DLSS Support](https://store.steampowered.com/news/app/2668430/view/544477139480609941)
 
 ## Ys X: Nordics
 
 - [The Ys X: Nordics PC Optimization Journey](https://store.steampowered.com/news/app/2731870/view/4666382742870026335)
 - [Durante discusses Falcom's new engine, PC-exclusive features, HDR, co-op, & more](https://www.rpgsite.net/interview/16422-ys-x-nordics-interview-durante-pc-port-local-coop-hdr-exclusive-features-ph3-nis-america)
 - [Ys X is going to feature local coop at launch on PC!](https://store.steampowered.com/news/app/2731870/view/7366291444711517861)
+- [A Tour of the PC Features of Ys X: Nordics](https://store.steampowered.com/news/app/2731870/view/4554919920318276608)
 
 ## The Legends of Heroes: Trails through Daybreak
 
